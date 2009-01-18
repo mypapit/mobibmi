@@ -1,0 +1,12 @@
+1.2 (2009-01-18)
+--------------------
+- Fix number validation issue
+- Add Imperial units
+- Refactored the source code to make it smaller
+- Add GNU GPL 2.0 notice to LICENSE.txt 
+- Change project page to http://mobibmi.googlecode.com
+
+
+1.0 (2007-10-28)
+---------------------
+First Public Release

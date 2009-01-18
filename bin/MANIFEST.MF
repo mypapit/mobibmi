@@ -1,10 +1,9 @@
 MIDlet-1: MobiBMI, /bmi.png, MobiBMI
-MIDlet-Data-Size: 512
-MIDlet-Description: Calculates BMI - Body Mass Index
-MIDlet-Icon: /bmi.png
-MIDlet-Info-URL: http://java.mobilepit.com/
+MIDlet-Description: Calculates Body Mass Index
+MIDlet-Icon: ./bmi.png
+MIDlet-Info-URL: http://mobibmi.googlecode.com
 MIDlet-Name: MobiBMI
-MIDlet-Vendor: http://mobile.mypapit.net
-MIDlet-Version: 1.0
+MIDlet-Vendor: Kirostudio
+MIDlet-Version: 1.2
 MicroEdition-Configuration: CLDC-1.1
 MicroEdition-Profile: MIDP-2.0
